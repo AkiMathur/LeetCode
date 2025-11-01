@@ -5,8 +5,6 @@ class Solution:
         result = []
 
         for i in strs:
-            hash_strs[str(sorted(i))].append(i)
-        
-        for i in hash_strs.values():
-            result.append(i)
-        return result
+            hash_strs[tuple(sorted(i))].append(i)
+
+        return list(hash_strs.values())
