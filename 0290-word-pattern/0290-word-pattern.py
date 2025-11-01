@@ -2,13 +2,12 @@ class Solution:
     def wordPattern(self, pattern: str, s: str) -> bool:
         s = s.split()
         hash_p = dict()
-        len_p = len(pattern)
         str_p = []
 
-        if len_p != len(s):
+        if len(pattern) != len(s):
             return False
-            
-        for i in range(len_p):
+
+        for i in range(len(pattern)):
             if pattern[i] not in hash_p.keys():
                 if s[i] not in hash_p.values():
                     hash_p[pattern[i]] = s[i]
