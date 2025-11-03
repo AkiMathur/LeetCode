@@ -6,6 +6,7 @@ Daily Leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AkiMathur/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/AkiMathur/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/AkiMathur/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AkiMathur/LeetCode/tree/master/0242-valid-anagram) |
@@ -25,5 +26,6 @@ Daily Leetcode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AkiMathur/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/AkiMathur/LeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
