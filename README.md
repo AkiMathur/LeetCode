@@ -8,6 +8,7 @@ Daily Leetcode
 | ------- |
 | [0001-two-sum](https://github.com/AkiMathur/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/AkiMathur/LeetCode/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/AkiMathur/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/AkiMathur/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AkiMathur/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AkiMathur/LeetCode/tree/master/0290-word-pattern) |
@@ -28,4 +29,12 @@ Daily Leetcode
 | ------- |
 | [0001-two-sum](https://github.com/AkiMathur/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/AkiMathur/LeetCode/tree/master/0049-group-anagrams) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/AkiMathur/LeetCode/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/AkiMathur/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
