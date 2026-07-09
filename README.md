@@ -41,6 +41,7 @@ Daily Leetcode
 | [0128-longest-consecutive-sequence](https://github.com/AkiMathur/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/AkiMathur/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AkiMathur/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0704-binary-search](https://github.com/AkiMathur/LeetCode/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
@@ -68,4 +69,8 @@ Daily Leetcode
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AkiMathur/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/AkiMathur/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
