@@ -19,6 +19,7 @@ Daily Leetcode
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AkiMathur/LeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/AkiMathur/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/AkiMathur/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AkiMathur/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AkiMathur/LeetCode/tree/master/0290-word-pattern) |
@@ -45,6 +46,7 @@ Daily Leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/AkiMathur/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/AkiMathur/LeetCode/tree/master/0202-happy-number) |
 ## Sliding Window
 |  |
