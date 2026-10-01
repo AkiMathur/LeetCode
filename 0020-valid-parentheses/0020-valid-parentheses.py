@@ -4,15 +4,10 @@ class Solution:
         brackets = {'(':')','{':'}','[':']'}
         store = []
         for i in list(s):
-            if i in brackets.keys():
+            if i in '({[':
                 store.append(i)
-            elif len(store):
-                if brackets[store.pop()] != i:
+            elif (len(store) == 0) or (brackets[store.pop()] != i):
                     return False
-            else:
-                return False
+
+        return len(store) == 0
                 
-        if len(store):
-            return False
-        else:
-            return True
