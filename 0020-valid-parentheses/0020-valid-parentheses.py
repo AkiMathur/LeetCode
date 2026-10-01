@@ -3,7 +3,7 @@ class Solution:
 
         brackets = {'(':')','{':'}','[':']'}
         store = []
-        for i in list(s):
+        for i in s:
             if i in '({[':
                 store.append(i)
             elif (len(store) == 0) or (brackets[store.pop()] != i):
