@@ -6,12 +6,11 @@ class Solution:
         for i in list(s):
             if i in brackets.keys():
                 store.append(i)
-            else:
-                try:
-                    if brackets[store.pop()] != i:
-                        return False
-                except:
+            elif len(store):
+                if brackets[store.pop()] != i:
                     return False
+            else:
+                return False
                 
         if len(store):
             return False
