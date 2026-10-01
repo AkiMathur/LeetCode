@@ -20,6 +20,7 @@ Daily Leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkiMathur/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/AkiMathur/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AkiMathur/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AkiMathur/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/AkiMathur/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -90,4 +91,12 @@ Daily Leetcode
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AkiMathur/LeetCode/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AkiMathur/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AkiMathur/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
