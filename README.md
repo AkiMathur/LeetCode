@@ -21,6 +21,7 @@ Daily Leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkiMathur/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/AkiMathur/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AkiMathur/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/AkiMathur/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AkiMathur/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/AkiMathur/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -66,6 +67,7 @@ Daily Leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AkiMathur/LeetCode/tree/master/0022-generate-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AkiMathur/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AkiMathur/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0509-fibonacci-number](https://github.com/AkiMathur/LeetCode/tree/master/0509-fibonacci-number) |
@@ -99,4 +101,9 @@ Daily Leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AkiMathur/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AkiMathur/LeetCode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AkiMathur/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
