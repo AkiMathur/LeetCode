@@ -27,6 +27,7 @@ Daily Leetcode
 | [0205-isomorphic-strings](https://github.com/AkiMathur/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AkiMathur/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AkiMathur/LeetCode/tree/master/0290-word-pattern) |
+| [0678-valid-parenthesis-string](https://github.com/AkiMathur/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
 | ------- |
@@ -71,10 +72,12 @@ Daily Leetcode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AkiMathur/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AkiMathur/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0509-fibonacci-number](https://github.com/AkiMathur/LeetCode/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/AkiMathur/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AkiMathur/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/AkiMathur/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,11 +100,13 @@ Daily Leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AkiMathur/LeetCode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/AkiMathur/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AkiMathur/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AkiMathur/LeetCode/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/AkiMathur/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
