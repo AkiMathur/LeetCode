@@ -48,6 +48,7 @@ Daily Leetcode
 | [0217-contains-duplicate](https://github.com/AkiMathur/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AkiMathur/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/AkiMathur/LeetCode/tree/master/0704-binary-search) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AkiMathur/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Math
 |  |
 | ------- |
@@ -119,4 +120,8 @@ Daily Leetcode
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AkiMathur/LeetCode/tree/master/0022-generate-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AkiMathur/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
